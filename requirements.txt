@@ -60,7 +60,7 @@ tornado==6.0.2
 traitlets==4.3.2
 uritemplate==3.0.0
 uritemplate.py==3.0.2
-urllib3==1.24.1
+urllib3==1.24.2
 voluptuous==0.11.5
 wcwidth==0.1.7
 
