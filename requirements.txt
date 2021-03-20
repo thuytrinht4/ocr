@@ -78,7 +78,7 @@ google-cloud-vision==0.36.0
 google-resumable-media==0.3.2
 googleapis-common-protos==1.5.8
 grpcio==1.19.0
-Jinja2==2.10
+Jinja2==2.11.3
 jsonschema==2.6.0
 jupyterlab==0.35.3
 jupyterlab-server==0.2.0
