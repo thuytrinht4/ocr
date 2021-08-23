@@ -80,7 +80,7 @@ googleapis-common-protos==1.5.8
 grpcio==1.19.0
 Jinja2==2.10
 jsonschema==2.6.0
-jupyterlab==0.35.3
+jupyterlab==1.2.21
 jupyterlab-server==0.2.0
 MarkupSafe==1.1.1
 pandocfilters==1.4.2
